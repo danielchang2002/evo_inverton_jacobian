@@ -1,1 +1,1 @@
-Colab notebook for running [categorical jacobian](https://www.biorxiv.org/content/10.1101/2024.01.30.577970v1) on [Evo](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v2) for a sample inverton in the Bacteroides thetaiotaomicron genome.
+Colab notebook for running [categorical jacobian](https://www.biorxiv.org/content/10.1101/2024.01.30.577970v1) on [Evo](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v2) for an example inverton in the Bacteroides thetaiotaomicron genome.
